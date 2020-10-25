@@ -1,0 +1,26 @@
+{
+  "name": "blockstore2020",
+  "version": "1.0.0",
+  "description": "a store service by blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feo-0134/BlockStore2020.git"
+  },
+  "keywords": [
+    "blockchain",
+    "IaaS"
+  ],
+  "author": "juncheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Feo-0134/BlockStore2020/issues"
+  },
+  "homepage": "https://github.com/Feo-0134/BlockStore2020#readme",
+  "dependencies": {
+    "web3": "^1.3.0"
+  }
+}
